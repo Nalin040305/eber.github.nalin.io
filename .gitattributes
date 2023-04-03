@@ -1,2 +1,35 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="grid.css" />
+		<title>Griduppgift</title>
+	</head>
+	<body>
+	<h1>griduppgift</h1>
+		<div class="container">
+			<div class="item1">1. Tofu</div>
+			<div class="item2">2. Eggplant</div>
+			<div class="item3">3. Onion</div>
+			<div class="item4">4. Swede</div>
+			<div class="item5">5. Scones</div>
+			<div class="item6">6. Carrots</div>
+			<div class="item7">7. Jam</div>
+			<div class="item8">8. Cucumber</div>
+			<div class="item9">9. Carrot</div>
+			<div class="item10">10. Sweet poato</div>
+			<div class="item11">11. Peas</div>
+			<div class="item12">12. Beans</div>
+			<div class="item13">13. Lentil</div>
+			<div class="item14">14. Tomato</div>
+			<div class="item15">15. Butternut Squash</div>
+			<div class="item16">16. Ham</div>
+			<div class="item17">17. Pineapple</div>
+			<div class="item18">18. Pasta</div>
+			<div class="item19">19. Cheese</div>
+			<div class="item20">20. Milk</div>
+		</div>
+	</body>
+</html>
+
+	
